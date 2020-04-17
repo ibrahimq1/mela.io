@@ -1,0 +1,23 @@
+{
+  "name": "mela.io",
+  "version": "1.0.0",
+  "description": "Browser based mela.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimq1/mela.io.git"
+  },
+  "author": "Quazi Rafid Ibrahim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibrahimq1/mela.io/issues"
+  },
+  "homepage": "https://github.com/ibrahimq1/mela.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
